@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a passionate web developer and digital sorcerer with a love for crafting innovative and user-friendly web solutions. Since 2019, I've been casting spells (writing code) to bring ideas to life in the digital realm, focusing on building dynamic, secure, and intuitive applications.</p>
+<p align="left">I'm a software engineer and digital wizard who uses a systems-thinking approach to create serious, profitable web systems. I've been transforming concepts into scalable, secure, and maintainable applications since 2019. I've been working end-to-end, from user interfaces and infrastructure to data models and APIs.
+
+Correctness, performance, security, and long-term maintainability are more important to me than shipping features. I like creating transaction-driven systems, multi-tenant SaaS platforms, and automation-heavy products that scale cleanly and solve practical issues. When I'm not writing code, I'm typically thinking about simpler abstractions, better architectures, or how to transform a strong technical system into a long-term business.</p>
 
 ###
 
