@@ -1,10 +1,19 @@
-<h1 align="center">🧙‍♂️🔮Welcome to WizardAlani's Code Vault! 🔥Casting Code Spells Since 2019 🧙‍♂️🚀</h1>
+<h1 align="center">🧙‍♂️🔮Welcome to WizardAlani's Code Vault! <br/>🔥Casting Code Spells Since 2019 🧙‍♂️🚀</h1>
 
 ###
 
-<p align="left">I'm a software engineer and digital wizard who uses a systems-thinking approach to create serious, profitable web systems. I've been transforming concepts into scalable, secure, and maintainable applications since 2019. I've been working end-to-end, from user interfaces and infrastructure to data models and APIs.
+<p align="left">I build software that holds up under pressure. Secure. Scalable. No shortcuts.
 
-Correctness, performance, security, and long-term maintainability are more important to me than shipping features. I like creating transaction-driven systems, multi-tenant SaaS platforms, and automation-heavy products that scale cleanly and solve practical issues. When I'm not writing code, I'm typically thinking about simpler abstractions, better architectures, or how to transform a strong technical system into a long-term business.</p>
+Most of my work sits around automation platforms and API-driven systems using Laravel and modern web tools. But the real focus isn’t the stack. It’s the structure behind it. How data moves. Where things can break. How to stop that early.
+
+I lean heavily into security from a systems angle. Not just patching issues after they show up, but asking better questions upfront.
+Where could this fail? How could this be abused? What’s the worst-case scenario?
+
+That thinking shapes how I design.
+
+I care about protecting user data. I care about system integrity. Not in theory. In the actual decisions, I make when building.
+
+And the goal is simple. Help teams ship software that’s not just functional, but resilient by default.</p>
 
 ###
 
